@@ -1,6 +1,6 @@
 # galaxy - ewas
 
-FROM quay.io/bgruening/galaxy-ngs-preprocessing:18.05
+FROM bgruening/galaxy-ngs-preprocessing:18.05
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
