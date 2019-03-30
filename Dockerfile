@@ -12,5 +12,5 @@ RUN install-tools $GALAXY_ROOT/ewas.yaml && \
     /tool_deps/_conda/bin/conda clean --tarballs
 
 # Container Style
-ADD image.png $GALAXY_ROOT/image.png
-ADD welcome.html $GALAXY_ROOT/welcome.html
+ADD image.png $GALAXY_CONFIG_DIR/web/image.png
+ADD welcome.html $GALAXY_CONFIG_DIR/web/welcome.htm
