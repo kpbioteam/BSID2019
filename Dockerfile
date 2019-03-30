@@ -10,3 +10,7 @@ ENV GALAXY_CONFIG_BRAND EWAS
 ADD ewas.yml $GALAXY_ROOT/tools.yaml
 RUN install-tools $GALAXY_ROOT/tools.yaml && \
     /tool_deps/_conda/bin/conda clean --tarballs
+
+# Container Style
+ADD $GALAXY_ROOT/image.png
+ADD welcome.html $GALAXY_ROOT/welcome.html
