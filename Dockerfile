@@ -1,10 +1,7 @@
 # galaxy - ewas
 
-<<<<<<< HEAD
-FROM bgruening/galaxy-ngs-preprocessing:18.05
-=======
+
 FROM bgruening/galaxy-ngs-preprocessing:19.01
->>>>>>> 70df124d8a027861f8aad8bcb4458dea99bf02e7
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
