@@ -48,3 +48,4 @@ For more details about this command line or specific usage, please consult the
 You can file an [github issue](https://github.com/kpbioteam/docker_ewas/issues) or ask us on the [Galaxy development list](http://lists.bx.psu.edu/listinfo/galaxy-dev).
 # docker_ewas
 # BSID2019
+# workshop
